@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders bordered 1`] = `
+<div
+  className="ant-card ant-card-bordered ant-card-hoverable"
+  style={
+    Object {
+      "width": 240,
+    }
+  }
+>
+  <div
+    className="ant-card-cover"
+  >
+    <img
+      alt="example"
+      src="https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png"
+    />
+  </div>
+  <div
+    className="ant-card-body"
+    style={Object {}}
+  >
+    <p>
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders cover 1`] = `
+<div
+  className="ant-card ant-card-bordered"
+>
+  <div
+    className="ant-card-head"
+    style={Object {}}
+  >
+    <div
+      className="ant-card-head-wrapper"
+    >
+      <div
+        className="ant-card-head-title"
+      >
+        Default size card
+      </div>
+      <div
+        className="ant-card-extra"
+      >
+        <a
+          href="#"
+        >
+          More
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="ant-card-body"
+    style={Object {}}
+  >
+    <p>
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders default 1`] = `
+<div
+  className="ant-card ant-card-bordered"
+>
+  <div
+    className="ant-card-head"
+    style={Object {}}
+  >
+    <div
+      className="ant-card-head-wrapper"
+    >
+      <div
+        className="ant-card-head-title"
+      >
+        Default size card
+      </div>
+      <div
+        className="ant-card-extra"
+      >
+        <a
+          href="#"
+        >
+          More
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="ant-card-body"
+    style={Object {}}
+  >
+    <p>
+      test
+    </p>
+  </div>
+</div>
+`;
+
+exports[`renders hoverable 1`] = `
+<div
+  className="ant-card ant-card-bordered"
+>
+  <div
+    className="ant-card-head"
+    style={Object {}}
+  >
+    <div
+      className="ant-card-head-wrapper"
+    >
+      <div
+        className="ant-card-head-title"
+      >
+        Default size card
+      </div>
+      <div
+        className="ant-card-extra"
+      >
+        <a
+          href="#"
+        >
+          More
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="ant-card-body"
+    style={Object {}}
+  >
+    <p>
+      test
+    </p>
+  </div>
+</div>
+`;

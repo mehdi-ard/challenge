@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+<div
+  className="ant-radio-group ant-radio-group-outline"
+>
+  <label
+    className="ant-radio-wrapper"
+    style={
+      Object {
+        "display": "block",
+        "lineHeight": "30px",
+      }
+    }
+  >
+    <span
+      className="ant-radio"
+      style={Object {}}
+    >
+      <input
+        checked={false}
+        className="ant-radio-input"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        type="radio"
+        value={1}
+      />
+      <span
+        className="ant-radio-inner"
+      />
+    </span>
+    <span>
+      A
+    </span>
+  </label>
+  <label
+    className="ant-radio-wrapper"
+    style={
+      Object {
+        "display": "block",
+        "lineHeight": "30px",
+      }
+    }
+  >
+    <span
+      className="ant-radio"
+      style={Object {}}
+    >
+      <input
+        checked={false}
+        className="ant-radio-input"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        type="radio"
+        value={2}
+      />
+      <span
+        className="ant-radio-inner"
+      />
+    </span>
+    <span>
+      B
+    </span>
+  </label>
+  <label
+    className="ant-radio-wrapper"
+    style={
+      Object {
+        "display": "block",
+        "lineHeight": "30px",
+      }
+    }
+  >
+    <span
+      className="ant-radio"
+      style={Object {}}
+    >
+      <input
+        checked={false}
+        className="ant-radio-input"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        type="radio"
+        value={3}
+      />
+      <span
+        className="ant-radio-inner"
+      />
+    </span>
+    <span>
+      C
+    </span>
+  </label>
+</div>
+`;

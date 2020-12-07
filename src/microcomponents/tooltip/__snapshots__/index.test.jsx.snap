@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+<button
+  className="ant-btn"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  type="button"
+>
+  <span>
+    Tooltip
+  </span>
+</button>
+`;
+
+exports[`renders placement 1`] = `
+<button
+  className="ant-btn"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  type="button"
+>
+  <span>
+    Tooltip
+  </span>
+</button>
+`;

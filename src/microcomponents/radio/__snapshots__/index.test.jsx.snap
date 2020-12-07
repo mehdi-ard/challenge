@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default checked 1`] = `
+<label
+  className="ant-radio-wrapper ant-radio-wrapper-checked"
+>
+  <span
+    className="ant-radio ant-radio-checked"
+    style={Object {}}
+  >
+    <input
+      checked={true}
+      className="ant-radio-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      type="radio"
+    />
+    <span
+      className="ant-radio-inner"
+    />
+  </span>
+  <span>
+    test
+  </span>
+</label>
+`;
+
+exports[`renders defult 1`] = `
+<label
+  className="ant-radio-wrapper"
+>
+  <span
+    className="ant-radio"
+    style={Object {}}
+  >
+    <input
+      checked={false}
+      className="ant-radio-input"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      type="radio"
+    />
+    <span
+      className="ant-radio-inner"
+    />
+  </span>
+  <span>
+    test
+  </span>
+</label>
+`;
+
+exports[`renders disabled 1`] = `
+<label
+  className="ant-radio-wrapper ant-radio-wrapper-disabled"
+>
+  <span
+    className="ant-radio ant-radio-disabled"
+    style={Object {}}
+  >
+    <input
+      checked={false}
+      className="ant-radio-input"
+      disabled={true}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      type="radio"
+    />
+    <span
+      className="ant-radio-inner"
+    />
+  </span>
+  <span>
+    disabled
+  </span>
+</label>
+`;

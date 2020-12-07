@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+<span
+  className="ant-avatar ant-avatar-circle ant-avatar-image"
+  style={Object {}}
+>
+  <img
+    onError={[Function]}
+    src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
+  />
+</span>
+`;
+
+exports[`renders shape square 1`] = `
+<span
+  className="ant-avatar ant-avatar-lg ant-avatar-square ant-avatar-image"
+  style={Object {}}
+>
+  <img
+    onError={[Function]}
+    src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
+  />
+</span>
+`;
+
+exports[`renders size 1`] = `
+<span
+  className="ant-avatar ant-avatar-circle ant-avatar-image"
+  style={
+    Object {
+      "fontSize": 18,
+      "height": 64,
+      "lineHeight": "64px",
+      "width": 64,
+    }
+  }
+>
+  <img
+    onError={[Function]}
+    src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
+  />
+</span>
+`;

@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+<button
+  className="ant-btn"
+  onClick={[Function]}
+  type="button"
+>
+  <span>
+    Hello Button
+  </span>
+</button>
+`;
+
+exports[`renders primary 1`] = `
+<button
+  className="ant-btn ant-btn-primary"
+  onClick={[Function]}
+  type="button"
+>
+  <span>
+    primary
+  </span>
+</button>
+`;
+
+exports[`renders primary with variant 1`] = `
+<button
+  className="ant-btn ant-btn-primary"
+  onClick={[Function]}
+  type="button"
+  variant="contained"
+>
+  <span>
+    primary with variant
+  </span>
+</button>
+`;

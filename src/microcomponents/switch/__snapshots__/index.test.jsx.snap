@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders default 1`] = `
+Array [
+  <span
+    aria-label={null}
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch"
+    defaultChecked={false}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onMouseUp={[Function]}
+    role="switch"
+    type="button"
+  >
+    <span
+      className="ant-switch-inner"
+    />
+  </button>,
+]
+`;
+
+exports[`renders size 1`] = `
+Array [
+  <span
+    aria-label={null}
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    default
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch-small ant-switch"
+    defaultChecked={false}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onMouseUp={[Function]}
+    role="switch"
+    size="small"
+    type="button"
+  >
+    <span
+      className="ant-switch-inner"
+    />
+  </button>,
+]
+`;
+
+exports[`renders with label 1`] = `
+Array [
+  <span
+    aria-label={null}
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    default
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch"
+    defaultChecked={false}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onMouseUp={[Function]}
+    role="switch"
+    type="button"
+  >
+    <span
+      className="ant-switch-inner"
+    />
+  </button>,
+]
+`;
+
+exports[`renders with text 1`] = `
+Array [
+  <span
+    aria-label={null}
+    className="ant-typography"
+    style={
+      Object {
+        "WebkitLineClamp": null,
+      }
+    }
+  >
+    
+  </span>,
+  <button
+    aria-checked={false}
+    className="ant-switch"
+    defaultChecked={false}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onMouseUp={[Function]}
+    role="switch"
+    type="button"
+  >
+    <span
+      className="ant-switch-inner"
+    >
+      OFF
+    </span>
+  </button>,
+]
+`;

@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "conent": "asdadashdkkasd",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/estebanuribe/128.jpg",
+      "image": "http://placeimg.com/640/480/abstract",
+      "date": "2020-12-06T12:18:02.226Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

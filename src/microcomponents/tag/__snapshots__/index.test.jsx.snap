@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`color default 1`] = `
+<span
+  className="ant-tag ant-tag-has-color"
+  style={
+    Object {
+      "backgroundColor": "default",
+    }
+  }
+>
+  default
+</span>
+`;
+
+exports[`color warning 1`] = `
+<span
+  className="ant-tag ant-tag-has-color"
+  style={
+    Object {
+      "backgroundColor": "warning",
+    }
+  }
+>
+  warning
+</span>
+`;
+
+exports[`custom color 1`] = `
+<span
+  className="ant-tag ant-tag-has-color"
+  style={
+    Object {
+      "backgroundColor": "#f50",
+    }
+  }
+>
+  custom color
+</span>
+`;
+
+exports[`renders color error 1`] = `
+<span
+  className="ant-tag ant-tag-has-color"
+  style={
+    Object {
+      "backgroundColor": "error",
+    }
+  }
+>
+  error
+</span>
+`;
+
+exports[`renders color processing 1`] = `
+<span
+  className="ant-tag ant-tag-has-color"
+  style={
+    Object {
+      "backgroundColor": "processing",
+    }
+  }
+>
+  processing
+</span>
+`;
+
+exports[`renders color success 1`] = `
+<span
+  className="ant-tag ant-tag-has-color"
+  style={
+    Object {
+      "backgroundColor": "success",
+    }
+  }
+>
+  success
+</span>
+`;
+
+exports[`renders default 1`] = `
+<span
+  className="ant-tag"
+  style={
+    Object {
+      "backgroundColor": undefined,
+    }
+  }
+>
+  success
+</span>
+`;
